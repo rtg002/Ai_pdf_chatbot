@@ -1,2 +1,19 @@
-# ai-pdf-chatbot
-AI-powered PDF summarizer and Q&A chatbot using OpenAI GPT
+# 🧠 AI PDF Summarizer + Chatbot
+
+An AI-powered tool to summarize PDFs and answer questions from documents using OpenAI GPT-3.5.
+
+## 🔧 Tech Stack
+- Python
+- Streamlit
+- OpenAI API
+- PyMuPDF
+
+## 🚀 Features
+- Upload any PDF
+- Generate bullet-point summaries
+- Ask natural language questions about the document
+
+## ⚙️ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
