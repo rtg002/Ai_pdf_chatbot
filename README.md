@@ -1,4 +1,4 @@
-# 🧠 AI PDF Summarizer + Chatbot (Streamlit + OpenAI GPT)
+# 🧠 AI PDF Summarizer + Chatbot (Streamlit + OpenAI API)
 
 This is a Streamlit web app that allows users to:
 - Upload a PDF 📄
@@ -20,15 +20,5 @@ This is a Streamlit web app that allows users to:
 - OpenAI API 🤖
 - PyMuPDF (for reading PDFs) 📄
 
-## 💻 Run Locally
 
-```bash
-# Step 1: Clone the repo
-git clone https://github.com/your-username/ai-pdf-chatbot.git
-cd ai-pdf-chatbot
 
-# Step 2: Install dependencies
-pip install -r requirements.txt
-
-# Step 3: Add your OpenAI key to .streamlit/secrets.toml
-# Do not commit this file to GitHub!
