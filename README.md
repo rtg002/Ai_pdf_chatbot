@@ -13,7 +13,4 @@ An AI-powered tool to summarize PDFs and answer questions from documents using O
 - Generate bullet-point summaries
 - Ask natural language questions about the document
 
-## ⚙️ Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
