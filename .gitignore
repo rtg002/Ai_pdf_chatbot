@@ -1,4 +1,6 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Ignore Streamlit secrets and Python cache
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.env
+
